@@ -1,5 +1,6 @@
 # Simple tic tac toe with ReactJS
 
+![Screenshot](https://github.com/aryanbm/reactjs-tictoctoe/blob/master/images/sc.jpg)
 
 ---
 ## Requirements
